@@ -11,9 +11,9 @@
 ---
 
 <p align="left">
-  - 🧠 I'm currently building <b>scalable data pipelines</b> and exploring ways to integrate <b>AI agents</b> into modern applications. <br/>
-  - 💡 Interested in <b> SaaS</b>, developer experience tools, and distributed systems, buil pipelines for deliverable insights of data . <br/>
-  - 📫 How to reach me: <a href="mailto:YOUR_EMAIL@gmail.com"><b>adityaagrawal1528@gmail.com</b></a>
+  - 🧠 I'm Final year student  builds <b>scalable data pipelines</b> and exploring ways to integrate <b>AI agents</b> into modern applications. <br/>
+  - 💡 Interested in <b> SaaS</b>, developer experience tools, and distributed systems. <br/>
+  - 📫 How to reach me: <a href="mailto:adityacode2112@gmail.com"><b>adityacode2112@gmail.com</b></a>
 </p>
 
 ---
