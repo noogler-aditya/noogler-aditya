@@ -14,6 +14,8 @@
   - 🧠 I'm Final year student  builds <b>scalable data pipelines</b> and exploring ways to integrate <b>AI agents</b> into modern applications. <br/>
   - 💡 Interested in <b> SaaS</b>, developer experience tools, and distributed systems. <br/>
   - 📫 How to reach me: <a href="mailto:adityacode2112@gmail.com"><b>adityacode2112@gmail.com</b></a>
+  -  Portfolio : <a href="(https://portfolio-mu-drab-12.vercel.app/)"><b>Portfolio</b></a>
+
 </p>
 
 ---
