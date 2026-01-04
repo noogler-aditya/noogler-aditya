@@ -22,18 +22,19 @@
 
 ### 🛠️ Tech Stack & Toolbox
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** | ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Data & Cloud** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres,mysql,firebase,docker,vercel,git,githubactions,linux&perline=7" />
+</div>
 
+<br/>
+
+**Core Specializations:**
+- ☁️ **Cloud & DevOps:** Docker, Vercel, GitHub Actions, Linux
+- 📊 **Data Engineering:** PySpark, Scalable Data Pipelines
+- 🤖 **AI & Frameworks:** AI Agents, FastAPI, React
 ---
 
 ### 📈 Detailed Contribution Metrics
-*Since you contribute heavily, this section highlights your volume and consistency.*
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noogler-aditya&theme=dracula&area=true&hide_border=true&bg_color=0D1117" width="100%" />
 </p>
@@ -59,7 +60,19 @@
 
 ---
 
-### 🐍 Contribution Journey
+### 📊 GitHub Insights & Impact
+*Real-time stats reflecting high-frequency contribution and repository activity.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula&hide_border=false" width="100%" />
+</p>
+
+### 🐍 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/output/github-contribution-grid-snake.svg">
