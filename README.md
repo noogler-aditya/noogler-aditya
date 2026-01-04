@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aditya%20Kumar&fontSize=70&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Data Engineer | Founder of Syntactix | Cloud-Native & AI</h3>
+  <h3>🚀 Developer | Cloud-Native & AI</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -14,7 +14,7 @@
 ### 💫 About Me
 - 🔭 **Focus:** Building highly scalable data pipelines and AI-driven distributed systems.
 - 🛠️ **Current Project:** Pivoting **Syntactix** from a consulting service to a product-based studio.
-- ⚡ **Activity:** Actively developing **Univibe** (social app) and **AdGen Co-Pilot**.
+- ⚡ **Activity:** Actively developing that solve the pain point.
 - 💬 **Ask me about:** PySpark, System Design, or Cloud Architecture.
 - 📫 **Reach me:** [adityacode2112@gmail.com](mailto:adityacode2112@gmail.com) | [Portfolio](https://portfolio-mu-drab-12.vercel.app/)
 
@@ -36,7 +36,6 @@
 ---
 
 ### 📊 Stats & Contribution Impact
-*This dashboard reflects my high-frequency commit history and repository activity.*
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noogler-aditya&theme=dracula&area=true&hide_border=true&bg_color=0D1117" width="100%" />
