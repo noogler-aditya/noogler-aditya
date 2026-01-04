@@ -59,6 +59,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula" width="100%" />
+</p>
+
+---
+
 ### 🐍 Contribution Journey
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/output/github-contribution-grid-snake-dark.svg">
@@ -68,13 +79,8 @@
 
 ---
 
-### 🤝 Let's Build Something Great
+### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-kumar-a03237243" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/adityaagrawal1528/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/aditya-kumar-a03237243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/adityaagrawal1528/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/Built%20With-Love%20and%20Code-red.svg" />
-</div>
