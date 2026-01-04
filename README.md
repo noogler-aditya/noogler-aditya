@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aditya%20Kumar&fontSize=70&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Data Engineer | Cloud-Native & AI Solutions</h3>
+  <h3>🚀 Data Engineer | Founder of Syntactix | Cloud-Native & AI</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -13,9 +13,9 @@
 
 ### 💫 About Me
 - 🔭 **Focus:** Building highly scalable data pipelines and AI-driven distributed systems.
-- ⚡ **Activity:** Extremely active in the Open Source ecosystem with a focus on **SaaS** and **DevEx**.
-- 🛠️ **Current Project:** Pivoting **Syntactix** into a product-led studio.
-- 💬 **Ask me about:** PySpark, System Design, or why I love Docker.
+- 🛠️ **Current Project:** Pivoting **Syntactix** from a consulting service to a product-based studio.
+- ⚡ **Activity:** Actively developing **Univibe** (social app) and **AdGen Co-Pilot**.
+- 💬 **Ask me about:** PySpark, System Design, or Cloud Architecture.
 - 📫 **Reach me:** [adityacode2112@gmail.com](mailto:adityacode2112@gmail.com) | [Portfolio](https://portfolio-mu-drab-12.vercel.app/)
 
 ---
@@ -31,10 +31,13 @@
 **Core Specializations:**
 - ☁️ **Cloud & DevOps:** Docker, Vercel, GitHub Actions, Linux
 - 📊 **Data Engineering:** PySpark, Scalable Data Pipelines
-- 🤖 **AI & Frameworks:** AI Agents, FastAPI, React
+- 🤖 **AI & Frameworks:** AI Agents, Prompt Engineering, FastAPI
+
 ---
 
-### 📈 Detailed Contribution Metrics
+### 📊 Stats & Contribution Impact
+*This dashboard reflects my high-frequency commit history and repository activity.*
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noogler-aditya&theme=dracula&area=true&hide_border=true&bg_color=0D1117" width="100%" />
 </p>
@@ -42,37 +45,22 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&rank_icon=github" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula&hide_border=true&background=0D1117" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula&hide_border=false" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula&langs_count=8&hide_border=true&bg_color=0D1117" width="100%" />
-    </td>
-    <td align="center" width="50%">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noogler-aditya&theme=dracula" width="100%" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Insights & Impact
-*Real-time stats reflecting high-frequency contribution and repository activity.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula&hide_border=false" width="100%" />
-</p>
-
-### 🐍 Contribution Activity
+### 🐍 Contribution Journey
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/output/github-contribution-grid-snake.svg">
