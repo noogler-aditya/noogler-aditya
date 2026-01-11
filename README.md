@@ -38,34 +38,16 @@
 ### 📊 Stats & Contribution Impact
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noogler-aditya&theme=dracula&area=true&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula&hide_border=false" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula&hide_border=false" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=dracula" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noogler-aditya&theme=tokyo-night&area=true&hide_border=true&radius=16" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=dracula" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=16" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noogler-aditya&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
