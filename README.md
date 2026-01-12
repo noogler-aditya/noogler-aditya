@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=16" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-nu-30.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=16" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-nu-30.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
