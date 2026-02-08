@@ -15,19 +15,61 @@
 - 🔭 **Focus:** Building  scalable Product and AI-driven distributed systems.
 - 🛠️ **Current Project:** Pivoting **Syntactix** from a consulting service to a product-based studio.
 - ⚡ **Activity:** Actively developing that solve the pain point.
-- 💬 **Ask me about:** PySpark, System Design, or Cloud Architecture.
 - 📫 **Reach me:** [adityacode2112@gmail.com](mailto:adityacode2112@gmail.com) | [Portfolio](https://portfolio-mu-drab-12.vercel.app/)
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+---
+
+#### 🚀 Core Languages
+- **Python** — APIs, automation, data workflows
+- **C++** — performance-critical systems & algorithmic work
+- **JavaScript / TypeScript** — full-stack application development
+
+---
+
+#### ⚙️ Backend & APIs
+- **FastAPI** for high-performance async services
+- RESTful & event-driven architectures
+- Authentication, caching, and scalable service design
+
+---
+
+#### 🎨 Frontend & UX
+- **React / Next.js** ecosystem for modular, maintainable UIs
+- Component-driven architecture
+- Responsive and performance-optimized interfaces
+
+---
+
+#### 🗄️ Databases & Storage
+- **PostgreSQL** — relational data & production workloads
+- **MySQL** — transactional systems
+- **Supabase** — real-time and rapid deployment scenarios
+
+---
+
+#### ☁️ DevOps & Deployment
+- **Docker** containerization & reproducible environments
+- **Vercel** & cloud deployments
+- CI/CD automation using **GitHub Actions**
+
+---
+
+#### 🧰 Development Workflow
+- Git-driven collaborative development
+- Automated testing & deployment pipelines
+- Documentation & maintainable code standards
+
+---
+
+### ⚡ Toolbox Snapshot
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres,mysql,firebase,docker,vercel,git,githubactions,linux&perline=7" />
 </div>
 
-<br/>
-
+---
 **Core Specializations:**
 - ☁️ **Cloud & DevOps:** Docker, Vercel, GitHub Actions, Linux
 - 📊 **Data Engineering:** PySpark, Scalable Data Pipelines
