@@ -7,6 +7,13 @@
     <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/noogler-aditya?label=Followers&style=flat-square&color=2ecc71" alt="Followers" />
   </p>
+
+  <!-- AI Coding Tools -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Antigravity-AI_Tooling-ff6f00?style=for-the-badge" />
+  </p>
 </div>
 
 ---
