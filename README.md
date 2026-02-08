@@ -18,56 +18,41 @@
 - 📫 **Reach me:** [adityacode2112@gmail.com](mailto:adityacode2112@gmail.com) | [Portfolio](https://portfolio-mu-drab-12.vercel.app/)
 
 ---
+### 🛠️ Tech Stack & Toolbox
 
----
+####  Core Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=7" />
+</div>
 
-#### 🚀 Core Languages
-- **Python** — APIs, automation, data workflows
-- **C++** — performance-critical systems & algorithmic work
-- **JavaScript / TypeScript** — full-stack application development
-
----
+<br/>
 
 #### ⚙️ Backend & APIs
-- **FastAPI** for high-performance async services
-- RESTful & event-driven architectures
-- Authentication, caching, and scalable service design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi&perline=7" />
+</div>
 
----
+<br/>
 
 #### 🎨 Frontend & UX
-- **React / Next.js** ecosystem for modular, maintainable UIs
-- Component-driven architecture
-- Responsive and performance-optimized interfaces
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js&perline=7" />
+</div>
 
----
+<br/>
 
 #### 🗄️ Databases & Storage
-- **PostgreSQL** — relational data & production workloads
-- **MySQL** — transactional systems
-- **Supabase** — real-time and rapid deployment scenarios
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&perline=7" />
+</div>
 
----
+<br/>
 
 #### ☁️ DevOps & Deployment
-- **Docker** containerization & reproducible environments
-- **Vercel** & cloud deployments
-- CI/CD automation using **GitHub Actions**
-
----
-
-#### 🧰 Development Workflow
-- Git-driven collaborative development
-- Automated testing & deployment pipelines
-- Documentation & maintainable code standards
-
----
-
-### ⚡ Toolbox Snapshot
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres,mysql,firebase,docker,vercel,git,githubactions,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,linux,git&perline=7" />
 </div>
+
 
 ---
 **Core Specializations:**
