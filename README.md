@@ -22,28 +22,28 @@
 
 ####  Core Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=7" />
 </div>
 
 <br/>
 
 #### ⚙️ Backend & APIs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase&perline=7" />
 </div>
 
 <br/>
 
 #### 🎨 Frontend & UX
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&perline=7" />
 </div>
 
 <br/>
 
 #### 🗄️ Databases & Storage
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&perline=7" />
 </div>
 
 <br/>
