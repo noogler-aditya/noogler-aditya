@@ -12,7 +12,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Antigravity-AI_Tooling-ff6f00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-AI_Tooling-ff6f00?style=for-the-badge" />
   </p>
 </div>
 
