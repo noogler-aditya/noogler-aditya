@@ -28,7 +28,7 @@
 
 ### Current Projects
 -  **Agent Lighthouse :** [Repository](https://github.com/noogler-aditya/Agent-Lighthouse.git)
--  **NoCode MCPGenerator :** [Repository](https://github.com/noogler-aditya/no-code-mcp-generator.git)
+-  **NoCode MCP Generator :** [Repository](https://github.com/noogler-aditya/no-code-mcp-generator.git)
 
 ---
 
