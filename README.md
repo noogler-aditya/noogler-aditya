@@ -25,7 +25,6 @@
 
 ---
 
----
 
 ### Current Projects
 -  **Agent Lighthouse :** [Repository](https://github.com/noogler-aditya/Agent-Lighthouse.git)
