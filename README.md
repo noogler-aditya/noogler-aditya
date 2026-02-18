@@ -20,11 +20,19 @@
 
 ### 💫 About Me
 - 🔭 **Focus:** Building  scalable Product and AI-driven distributed systems.
-- 🛠️ **Current Project:** Pivoting **Syntactix** from a consulting service to a product-based studio.
 - ⚡ **Activity:** Actively developing that solve the pain point.
 - 📫 **Reach me:** [adityacode2112@gmail.com](mailto:adityacode2112@gmail.com) | [Portfolio](https://portfolio-mu-drab-12.vercel.app/)
 
 ---
+
+---
+
+### Current Projects
+-  **Agent Lighthouse :** [Repository](https://github.com/noogler-aditya/Agent-Lighthouse.git)
+-  **NoCode MCPGenerator :** [Repository](https://github.com/noogler-aditya/no-code-mcp-generator.git)
+
+---
+
 ### 🛠️ Tech Stack & Toolbox
 
 ####  Core Languages
